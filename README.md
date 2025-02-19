@@ -48,7 +48,7 @@
 
 
 ## Contact
-Created by [@aakashbhardwaj27] - feel free to contact me!
+Created by [@Aakashbhardwaj27](https://github.com/Aakashbhardwaj27) - feel free to contact me!
 
 
 <!-- Optional -->
